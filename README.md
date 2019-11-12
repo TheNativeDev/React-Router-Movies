@@ -16,7 +16,7 @@ Topics:
 * **In the root of this directory**: Run `yarn install` to download dependencies.
 * Run the server using `yarn start` or `node server.js`. (Don't worry too much about this process, you'll get used to doing this and it will be explained more in the future).
 * In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
-* Still inside the `client` folder run `yarn start` to run the client application.
+* Still inside the `client` folder run `yarn start` to run the client application..
 
 * Once your application is up and running on the client, you should see a browser window that looks like this at `localhost:3000`
   ![Movies Home](https://ibin.co/3xhmmHVl9BKF.png)
@@ -38,7 +38,7 @@ Topics:
 
 ## Stretch Goals.
 
-If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
+If you have completed Parts 1 & 2 feel free to move on to these stretch goals.. 
 
 ### Refactor so that our code is DRY.
 
